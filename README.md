@@ -1,3 +1,6 @@
+# we cloned this so we could lower the required ruby version. 
+# we were forced to upgrade since bitly killed their v3 API
+
 # Bitly
 
 A Ruby gem for using the version 4 [Bitly API](https://dev.bitly.com/) to shorten links, expand short links and view metrics across users, links and organizations.
